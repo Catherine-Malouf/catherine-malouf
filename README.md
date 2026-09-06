@@ -42,9 +42,8 @@ When I'm not studying, I enjoy:
 
 ## 📫 Let's Connect
 
-📧 **Email:** your-email@dukes.jmu.edu  
-💼 **LinkedIn:** [Connect with me](PASTE-YOUR-LINKEDIN-LINK-HERE)
-
+📧 **Email:** Maloufck@dukes.jmu.edu
+💼 **LinkedIn:** (https://www.linkedin.com/in/catherine-malouf-69b3873a4/)
 ---
 
 ### 🌱 Currently Exploring
