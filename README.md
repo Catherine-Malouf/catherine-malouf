@@ -40,7 +40,27 @@ When I'm not studying, I enjoy:
 
 ---
 
-## 📫 Let's Connect
+---
+
+## ✨ My X-Factor: People + Digital Communication
+
+What sets me apart is my interest in both **people and the digital world**. I enjoy understanding how people communicate, what makes a message effective, and how technology continues to change the way we connect.
+
+### 💭 What I Bring
+
+| 🗣️ Communication | 💻 Digital | 🤝 People |
+|---|---|---|
+| Digital Studies | Teamwork |
+| Public Relations | GitHub & Markdown | Collaboration |
+| Storytelling | Digital Media | Leadership |
+
+### ⭐ My Mindset
+
+**Communicate clearly. ** Stay curious. Build connections.**
+
+I am always open to learning new skills, meeting new people, and taking on experiences that challenge me to grow both personally and professionally.##
+
+📫 Let's Connect
 
 📧 **Email:** Maloufck@dukes.jmu.edu
 💼 **LinkedIn:** (https://www.linkedin.com/in/catherine-malouf-69b3873a4/)
