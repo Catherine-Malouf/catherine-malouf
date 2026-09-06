@@ -1,16 +1,54 @@
-## Hi there 👋
+# ✨ Catherine Malouf | Communication Meets Creativity
 
-<!--
-**Catherine-Malouf/catherine-malouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Catherine Malouf**, a **Communications major at James Madison University** with a minor in **Digital Studies**. I'm interested in public relations, digital media, and using communication to connect with different audiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💌 About Me
+
+- 🎓 Communications major at James Madison University
+- 💻 Minor in Digital Studies
+- 📣 Interested in public relations, marketing, and digital media
+- 📱 Interested in social media and digital trends
+- 🤝 I enjoy collaborating with others and bringing creative ideas to life
+
+---
+
+## 💻 Technical Skills
+
+![GitHub](https://img.shields.io/badge/GitHub-Learning-lightgrey?logo=github)
+![Markdown](https://img.shields.io/badge/Markdown-Learning-blue?logo=markdown)
+![Canva](https://img.shields.io/badge/Canva-Design-blueviolet?logo=canva)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-Proficient-orange)
+
+### Skills & Tools
+
+- Canva
+- Teamwork
+- Social Media
+- Digital Communication
+---
+
+## Beyond the Classroom
+
+When I'm not studying, I enjoy:
+
+- 📱 Keeping up with social media trends
+- 🎨 Finding creative ways to communicate ideas
+- 🤝 Meeting and working with new people
+- ✈️ Traveling and experiencing new places
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email:** your-email@dukes.jmu.edu  
+💼 **LinkedIn:** [Connect with me](PASTE-YOUR-LINKEDIN-LINK-HERE)
+
+---
+
+### 🌱 Currently Exploring
+
+`Communication` • `Public Relations` • `Digital Media` • `Content Creation` • `Markdown` • `GitHub`
+
+Thanks for visiting my profile! 💌
