@@ -47,7 +47,7 @@ When I'm not studying, I enjoy:
 What sets me apart is my interest in both people and the digital world. I enjoy understanding how people communicate, what makes a message effective, and how technology continues to change the way we connect.
 
 | 🗣️ Communication | 💻 Digital | 🤝 People |
-|---|---|---|
+
 | Digital Studies | Teamwork | adaptability 
 | Public Relations | GitHub & Markdown | Collaboration |
 | Storytelling | Digital Media | Leadership |
