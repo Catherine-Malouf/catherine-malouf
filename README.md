@@ -24,7 +24,7 @@ Hi! I'm **Catherine Malouf**, a **Communications major at James Madison Universi
 ### Skills & Tools
 
 - Canva
-- Teamwork
+- Teamwork                                                  <img src="images/computer cartoon.jpeg" height="150px"/>
 - Social Media
 - Digital Communication
 ---
