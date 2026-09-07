@@ -27,6 +27,7 @@ Hi! I'm **Catherine Malouf**, a **Communications major at James Madison Universi
 - Teamwork                                           
 - Social Media
 - Digital Communication
+                                                 
                                                  <img src="images/computer cartoon.jpeg" height="150px"/>
 ---
 
