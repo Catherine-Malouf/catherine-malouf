@@ -1,3 +1,5 @@
+
+<img src="images/channels4_profile.jpg" height="150px"/>
 # ✨ Catherine Malouf | Communication Meets Creativity
 
 Hi! I'm **Catherine Malouf**, a **Communications major at James Madison University** with a minor in **Digital Studies**. I'm interested in public relations, digital media, and using communication to connect with different audiences.
@@ -71,4 +73,4 @@ I am always open to learning new skills, meeting new people, and taking on exper
 
 Thanks for visiting my profile! 💌
 
-<img src="images/channels4_profile.jpg" height="150px"/>
+
