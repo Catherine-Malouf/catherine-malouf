@@ -68,4 +68,4 @@ I am always open to learning new skills, meeting new people, and taking on exper
 
 Thanks for visiting my profile! 💌
 
-<img src="images/channels4_profile.png" height="100px"/>
+<img src="images/channels4_profile.jpg" height="100px"/>
