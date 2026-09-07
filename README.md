@@ -49,7 +49,7 @@ What sets me apart is my interest in both people and the digital world. I enjoy 
 | 🗣️ Communication | 💻 Digital | 🤝 People |
 
 | Digital Studies | Teamwork | adaptability 
-| Public Relations | GitHub & Markdown | Collaboration |
+| Public Relations | Collaboration |
 | Storytelling | Digital Media | Leadership |
 
 ### ⭐ My Mindset
