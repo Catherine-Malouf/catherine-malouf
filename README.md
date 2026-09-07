@@ -68,4 +68,4 @@ I am always open to learning new skills, meeting new people, and taking on exper
 
 Thanks for visiting my profile! 💌
 
-![jmu logo](images/.png "channels4_profile.jpg")
+![jmu logo](images/channels4_profile.png "screenshot of the app")
