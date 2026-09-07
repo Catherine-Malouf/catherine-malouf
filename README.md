@@ -50,7 +50,7 @@ What sets me apart is my interest in both **people and the digital world**. I en
 
 | 🗣️ Communication | 💻 Digital | 🤝 People |
 |---|---|---|
-| Digital Studies | Teamwork |
+| Digital Studies | Teamwork | adaptability 
 | Public Relations | GitHub & Markdown | Collaboration |
 | Storytelling | Digital Media | Leadership |
 
