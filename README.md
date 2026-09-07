@@ -67,3 +67,5 @@ I am always open to learning new skills, meeting new people, and taking on exper
 `Communication` • `Public Relations` • `Digital Media` • `Content Creation` • `Markdown` • `GitHub`
 
 Thanks for visiting my profile! 💌
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
